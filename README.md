@@ -1,7 +1,8 @@
 # tic_tac_toe
 
 A new Flutter project.
-![Uploading image.png…]()
+<img width="322" alt="Screenshot_2" src="https://github.com/Rokeya17/tic_tac_toe/assets/135530632/768e6c6b-4db3-4be0-b5e1-eed2f5e28934">
+
 
 ## Getting Started
 
